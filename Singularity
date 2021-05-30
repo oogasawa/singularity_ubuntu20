@@ -148,3 +148,6 @@ From: ubuntu:20.04
 	make install
 
 
+    # 
+    mkdir /home/geadmin
+
